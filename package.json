@@ -1,0 +1,23 @@
+{
+  "name": "iot-nodejs-simple",
+  "version": "0.0.1",
+  "description": "IBM IoT Foundation Simple Node.js Client",
+  "main": "iot-nodejs.js",
+  "scripts": {
+    "start": "node iot-nodejs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hongjs@kr.ibm.com",
+  "license": "Apache License, Version 2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongjsk/iot-nodejs-client"
+  },
+  "dependencies": {
+    "mqtt": "~1.4.1",
+    "properties": "~1.2.1",
+    "q": "^1.4.1",
+    "systeminformation": "^3.45.9"
+  }
+}
