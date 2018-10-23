@@ -1,5 +1,5 @@
 {
-  "name": "iot-nodejs-simple",
+  "name": "iot-nodejs-client",
   "version": "0.0.1",
   "description": "IBM IoT Foundation Simple Node.js Client",
   "main": "iot-nodejs.js",
